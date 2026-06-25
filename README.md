@@ -6,6 +6,6 @@
  - [Role Assignments](https://github.com/YeqezqelIAM/role-assignments-repository)
  - [Group Assignments](https://github.com/YeqezqelIAM/group-assign)
  - [Identity Lifecycle](https://github.com/YeqezqelIAM/identity-lifecycle)
- - [Audit Logs]()
+ - [Audit Logs](https://github.com/YeqezqelIAM/audit-logs)
  - [Sign-In Logs]()
  - [Authentication]()
