@@ -7,5 +7,5 @@
  - [Group Assignments](https://github.com/YeqezqelIAM/group-assign)
  - [Identity Lifecycle](https://github.com/YeqezqelIAM/identity-lifecycle)
  - [Audit Logs](https://github.com/YeqezqelIAM/audit-logs)
- - [Sign-In Logs]()
+ - [Sign-In Logs](https://github.com/YeqezqelIAM/sign-in-logs)
  - [Authentication]()
